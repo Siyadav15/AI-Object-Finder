@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+}
+canvas{
+    background-color: hotpink;
+    border-color: mediumturquoise;
+    box-shadow: 5px 5px 5px mediumorchid;
+    border-radius: 15px;
+}
